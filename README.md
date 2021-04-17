@@ -1,4 +1,4 @@
-# **Discord Nuke Bot**
+
 
 
 ## SECOND STEP
