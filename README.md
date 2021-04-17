@@ -25,6 +25,8 @@
     "github": "https://github.com/Wiiper/Nuke-Bot"
 }
 ```
+##MODULES
+> To install all `modules` type **`npm i`** or **`npm install`**
 
 ## COMMANDS
 ##### 1. `ccreate`
