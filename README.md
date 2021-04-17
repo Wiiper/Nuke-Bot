@@ -11,4 +11,4 @@ First you **need** to install `Node.JS`. If you have **`Node.JS`** go read **ste
 
 ## STEP THREE
 
-Open **command prompt** in folder where is repo. Open folder in your `Visual Studio Code`. Then you opened the folder go to file **"config.json"**
+Open **command prompt** in folder where is repo. Open folder in your `Visual Studio Code`. Then you opened the folder go to file **"config.json"**. Nn continuation you can see example!
