@@ -1,1 +1,2 @@
-# Nuke-Bot
+#Discord Nuke Bot
+=========================  
