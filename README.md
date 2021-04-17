@@ -13,6 +13,8 @@ First you **need** to install `Node.JS`. If you have **`Node.JS`** go read **ste
 
 Open **command prompt** in folder where is repo. Open folder in your `Visual Studio Code`. Then you opened the folder go to file **"config.json"**. In continuation you can see example!
 
+## CONFIG EXAMPLE!
+
 ```json
 {
     "token": "BOT TOKEN",    
