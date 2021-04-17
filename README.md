@@ -26,5 +26,5 @@
 ```
 
 ## COMMANDS
-#### **`ccreate`**
+##### `ccreate`
 > Commad **"ccreate"** is used for creating **100** channels in the server
