@@ -48,5 +48,6 @@
 > Command **rdelete** is used for delete all roles in the server
 
 
-## DEVELOPERS**
+## DEVELOPERS
 > Nuke Bot creators is Wiper and Strale! ( .Wiper⁰²⁰³#0470, ! JustStrale#2203 )
+> If you see **errors** contact the Bot Creators
