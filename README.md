@@ -17,7 +17,7 @@
 
  ```json
 {
- >    "token": "BOT TOKEN",    
+    "token": "BOT TOKEN",    
     "prefix": "BOT PREFIX",    
     "user": "YOUR ID HERE",
     "developer": ".Wiper⁰²⁰³#0470 || ! JustStrale#2203",
