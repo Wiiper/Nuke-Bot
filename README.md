@@ -24,3 +24,5 @@ Open **command prompt** in folder where is repo. Open folder in your `Visual Stu
     "github": "https://github.com/Wiiper/Nuke-Bot"
 }
 ```
+
+## COMMANDS
