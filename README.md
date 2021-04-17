@@ -1,5 +1,5 @@
 # **Discord Nuke Bot**
 
 
-##FIRST STEP
+###FIRST STEP
 
