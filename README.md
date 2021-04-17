@@ -49,4 +49,4 @@
 
 
 ## DEVELOPERS**
-> Nuke Bot creators is Wiper and Strale!
+> Nuke Bot creators is Wiper and Strale! ( .Wiper⁰²⁰³#0470, ! JustStrale#2203 )
