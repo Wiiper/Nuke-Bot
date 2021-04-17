@@ -30,22 +30,22 @@
 > Commad **"ccreate"** is used for creating **100** channels in the server
 
 #### 2. `cdelete`
-> Command **cdelete** is used for **deleting** all channels in the server
+> Command **"cdelete"** is used for **deleting** all channels in the server
 
 #### 3. `cspam`
-> Command **cspam** is used for **spaming** in all channels
+> Command **"cspam"** is used for **spaming** in all channels
 
 #### 4. `guildname`
-> Command **guildname** is used for **seting** the server name
+> Command **"guildname"** is used for **seting** the server name
 
 #### 5. `massnick`
-> Command **massnick** is used for **seting** nick for all users in the server
+> Command **"massnick"** is used for **seting** nick for all users in the server
 
 #### 6. `rcreate`
-> Command **rcreate** is used for **creating** roles in the server
+> Command **"rcreate"** is used for **creating** roles in the server
 
 #### 7. `rdelete`
-> Command **rdelete** is used for delete all roles in the server
+> Command **"rdelete"** is used for delete all roles in the server
 
 
 ## DEVELOPERS
