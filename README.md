@@ -47,3 +47,8 @@
 #### 7. `rdelete`
 > Command **rdelete** is used for delete all roles in the server
 
+
+### DEVELOPERS
+> This Nuke Bot has been created by Wiper and Strale. Discord tags:
+> Wiper: **.Wiper⁰²⁰³#0470**
+> Strale: **! JustStrale#2203**
