@@ -25,7 +25,7 @@
     "github": "https://github.com/Wiiper/Nuke-Bot"
 }
 ```
-##MODULES
+## MODULES
 > To install all `modules` type **`npm i`** or **`npm install`**
 
 ## COMMANDS
