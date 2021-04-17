@@ -49,9 +49,4 @@
 
 
 ## DEVELOPERS**
-> This Nuke Bot has been created by Wiper and Strale. Discord tags:
-
-> Wiper: **.Wiper⁰²⁰³#0470**
-
-> Strale: **! JustStrale#2203**
-**
+> Nuke Bot creators is Wiper and Strale!
