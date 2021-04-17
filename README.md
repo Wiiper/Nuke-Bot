@@ -15,8 +15,8 @@ Open **command prompt** in folder where is repo. Open folder in your `Visual Stu
 
 ```json
 {
-    "token": "YOUR TOKEN HERE",    
-    "prefix": "BOT PREFIX HERE",    
+    "token": "BOT TOKEN",    
+    "prefix": "BOT PREFIX",    
     "user": "YOUR ID HERE",
     "developer": ".Wiper⁰²⁰³#0470 || ! JustStrale#2203",
     "github": "https://github.com/Wiiper/Nuke-Bot"
