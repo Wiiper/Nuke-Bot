@@ -20,4 +20,5 @@ Open **command prompt** in folder where is repo. Open folder in your `Visual Stu
     "user": "YOUR ID HERE",
     "developer": ".Wiper⁰²⁰³#0470 || ! JustStrale#2203",
     "github": "https://github.com/Wiiper/Nuke-Bot"
-}```
+}
+```
