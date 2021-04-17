@@ -26,7 +26,7 @@
 }
 ```
 ## MODULES
-> To install all `modules` type **`npm i`** or **`npm install`**
+> To install all `modules` type **`npm i`** or **`npm install`** in your console.
 
 ## COMMANDS
 ##### 1. `ccreate`
