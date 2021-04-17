@@ -13,10 +13,11 @@ First you **need** to install `Node.JS`. If you have **`Node.JS`** go read **ste
 
 Open **command prompt** in folder where is repo. Open folder in your `Visual Studio Code`. Then you opened the folder go to file **"config.json"**. In continuation you can see example!
 
-`{
+```json
+{
     "token": "YOUR TOKEN HERE",    
     "prefix": "BOT PREFIX HERE",    
     "user": "YOUR ID HERE",
     "developer": ".Wiper⁰²⁰³#0470 || ! JustStrale#2203",
     "github": "https://github.com/Wiiper/Nuke-Bot"
-}`
+}```
