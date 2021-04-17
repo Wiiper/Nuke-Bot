@@ -15,7 +15,7 @@
 
 ## CONFIG EXAMPLE!
 
-```json
+> ```json
 {
     "token": "BOT TOKEN",    
     "prefix": "BOT PREFIX",    
